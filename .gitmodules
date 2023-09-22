@@ -1,0 +1,3 @@
+[submodule "cherry-pick"]
+	path = cherry-pick
+	url = https://github.com/acemilyalcin/sample-node-project.git
